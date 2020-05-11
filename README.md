@@ -1,2 +1,2 @@
 # HiFiBerry
-Things for my HiFiBerry
+My HiFiBerry Things
